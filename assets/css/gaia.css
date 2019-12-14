@@ -249,8 +249,11 @@ a:hover {
 }
 
 p.description {
+  padding-left: 1em;
+  padding-right: 1em;
   font-size: 16px;
-  color: #777777;
+  color: #333;
+  text-align: justify;
 }
 
 a:hover, a:focus {
@@ -517,7 +520,7 @@ a,
 .navbar .navbar-nav > li > a.btn:active,
 .navbar .navbar-nav > li > a.btn.active, .open >
 .navbar .navbar-nav > li > a.btn.dropdown-toggle {
-  background-color: #6c3aad;
+  background-color:#de6168;
   color: #777777;
   border-color: #777777;
 }
@@ -1882,7 +1885,7 @@ a,
 .card {
   background: #fff;
   box-shadow: 0 32px 44px -24px rgba(0, 0, 0, 0.23), 0 20px 25px 0px rgba(0, 0, 0, 0.12), 0 15px 10px -10px rgba(0, 0, 0, 0.2);
-  border-radius: 6px;
+  border-radius: 12px;
   margin-bottom: 30px;
   -webkit-transition: all 370ms cubic-bezier(0.34, 1.61, 0.7, 1);
   -moz-transition: all 370ms cubic-bezier(0.34, 1.61, 0.7, 1);
