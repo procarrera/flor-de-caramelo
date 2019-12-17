@@ -2533,7 +2533,7 @@ a,
   padding: 0;
 }
 .section-get-started .container {
-  margin: 15vh auto;
+  margin: 5vh auto;
 }
 
 .section-contact-4 .parallax,
@@ -3089,7 +3089,7 @@ body {
   background: #fff;
 }
 .navbar-burger .navbar-header .navbar-toggle {
-  margin-top: 12px;
+  margin-top: 35px;
   margin-bottom: 8px;
   width: 40px;
   height: 40px;
@@ -3426,8 +3426,10 @@ body {
 }
 /*          Changes for small display      */
 @media (max-width: 767px) {
+  /*  HEADER BACKGROUND SMALL DISPLAY */
   .navbar-transparent {
-    padding-top: 0;
+    padding-top: 15px;
+    padding-bottom: 0px;
     background: #fff;
     /*background-color: #fffb2;*/
   }
@@ -3484,7 +3486,7 @@ body {
     font-weight: 600;
     font-size: 13px;
     line-height: 13px;
-    padding: 24px 0;
+    padding: 16px 0;
   }
   .navbar-collapse .nav > li > a:hover, .navbar-collapse .nav > li > a.active {
     color: #c5a47e;
