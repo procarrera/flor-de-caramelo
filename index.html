@@ -34,6 +34,13 @@
   <!--     Fonts and icons     -->
   <link href='https://fonts.googleapis.com/css?family=Cambo|Poppins:400,600' rel='stylesheet' type='text/css'>
   <link href="assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
+  <style>
+    .my-img {
+      vertical-align: middle;
+      height: 15px;
+      widows: 15px;
+    }
+  </style>
 </head>
 
 <body>
@@ -279,15 +286,15 @@
               <nav>
                 <ul>
                   <li>
-                    <a href="/index.html">Pagina Inicial</a></li>
+                    <a href="/index.html"><img class="my-img" src="/assets/icons/home-solid.png">&nbsp; Home</a></li>
                   <li>
-                    <a href="/nossa-historia.html">A Flor de Caramelo</a>
+                    <a href="/nossa-historia.html"><img class="my-img" src="/assets/icons/logopb.png">&nbsp; A Flor de Caramelo</a>
                   </li>
                   <li>
-                    <a href="/nossas-delicias.html">Nossas Delicias</a>
+                    <a href="/nossas-delicias.html"><img class="my-img" src="/assets/icons/star.png">&nbsp; Nossas Delicias</a>
                   </li>
                   <li>
-                    <a href="/contato.html">Contato</a>
+                    <a href="/contato.html"><img class="my-img" src="/assets/icons/mail.png">&nbsp;Contato</a>
                   </li>
                 </ul>
               </nav>
@@ -311,12 +318,13 @@
             </div>
           </div>
         </div>
-        <hr>
+        <hr style="margin-top: 0;">
         <div class="copyright">
-          © Flor de Caramelo - todos os direitos reservados
+          ©
+          <script> document.write(new Date().getFullYear()) </script> Flor de Caramelo - todos os direitos reservados
           <br>
-          <script> document.write(new Date().getFullYear()) </script> Carrera & Creative Tim, made with love <img
-            src="/assets/icons/love.png" height="15px" width="15px">
+          <br>
+          <a href="https://github.com/procarrera"> <u>Carrera & Creative Tim, made with love</u> </a>
         </div>
       </div>
     </footer>
