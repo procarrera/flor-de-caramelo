@@ -1953,7 +1953,7 @@ a,
   margin-bottom: 20px;
 }
 .card-member .content {
-  padding: 25px;
+  padding: 12px;
 }
 .card-member > img {
   background: none repeat scroll 0 0 transparent;
@@ -2673,9 +2673,9 @@ a,
     padding-right: 0;
     padding-left: 0;
   }
-  .section-we-made-1 .transition-1 {
-    /*     		transition: all 0.5s; */
-  }
+  /*.section-we-made-1 .transition-1 {
+    /*     		transition: all 0.5s;
+  } */
 
   .section-we-made-2 .scroll-area {
     width: 70%;
