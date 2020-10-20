@@ -1,14 +1,3 @@
-# Flor de Caramelo Gourmet
-
-A beautiful and very responsive website made with love.
-
-HTML and CSS permits a lot of creations
-
-*Whatsapp and Instagram integration*
-
-![screen](https://github.com/procarrera/files/blob/master/screen-flor.png)
-
-
 <div id="status" align="center">
         <img src="https://img.shields.io/badge/STATUS-PRODUCTION-brightgreen"/>
 </div>
@@ -16,7 +5,7 @@ HTML and CSS permits a lot of creations
 <br/><br/>
 <div id="header">
         <div align="center">
-            <img id="logo" alt="Next Level Week" src="https://user-images.githubusercontent.com/53456120/96350502-73d90380-108c-11eb-8b7a-e8d37ba87a25.png" height="180px" />
+            <img id="logo" alt="Next Level Week" src="https://user-images.githubusercontent.com/53456120/96534293-c91c3d00-1265-11eb-92e7-bb5b470b1874.png" height="180px" />
     </div>
     <br/> <br/>
     <div align="center">
