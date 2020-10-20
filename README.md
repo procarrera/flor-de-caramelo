@@ -22,7 +22,7 @@
 
 ## { About }
 A beautiful and very responsive website made with love. <br/>
-SImple HTML and CSS but a lot of creations :) <br/>
+Simple JS, HTML and CSS and a lot of creations :) <br/>
 Whatsapp and Instagram integration
 </br>
 <a id="link" href="https://flordecaramelogourmet.com.br"> https://flordecaramelogourmet.com.br </a>
